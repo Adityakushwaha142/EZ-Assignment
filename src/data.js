@@ -10,7 +10,7 @@ const data = [
     img: "https://www.ez.works/Audio.webp",
     name: "Audio-Visual Production",
     content:
-      "Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet Lorem ipsum dolor",
+      "Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet Lorem ipsum dolor sit",
   },
 
   {
